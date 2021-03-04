@@ -45,7 +45,7 @@ $funckja->okej();
 
 ?>
 
-<form enctype="multipart/form-data" action="guess_lastname.php" method="POST" >  
+<form enctype="multipart/form-data" action="guess.php" method="POST" >  
   <input type="text" name="number" >
   <input type="submit" name="submit">  
 </form>
